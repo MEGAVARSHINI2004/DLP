@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ## Start the Application
 python app.py
 ## Access the Dashboard
-Open your web browser and navigate to http://127.0.0.1:5000.
+Open your web browser and navigate to [http://127.0.0.1:5000].
 ## Login
 Use the default admin credentials:
    Username: admin
