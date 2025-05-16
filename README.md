@@ -52,7 +52,7 @@ Telegram Bot for alert notifications
 
 # 📦Installation
 ## Clone the Repository
-git clone https://github.com/MEGAVARSHINI2004/SecureVault.git
+git clone [https://github.com/MEGAVARSHINI2004/SecureVault.git]
 cd SecureVault
 ## Create a Virtual Environment
 On Windows: venv\Scripts\activate
@@ -82,4 +82,5 @@ View real-time incidents and alerts.
 Monitor risk scores and user activities.
 Export logs in PDF or CSV formats for auditing purposes.
 
-
+# ✍️ Authors
+Megavarshini – Developer Linkedin : [https://www.linkedin.com/in/a-megavarshini/]
