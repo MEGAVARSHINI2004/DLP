@@ -1,0 +1,43 @@
+Requirements:
+
+watchdog
+pyperclip
+psutil
+pyshark
+spacy
+scikit-learn
+nltk
+joblib
+PyCryptodome
+flask
+
+
+Directory:
+
+SecureVault/ 
+│ 
+├── main.py 
+├── requirements.txt 
+├── app.py 
+├── alerts/ 
+│    │   
+│    └── telegram_alert.py 
+├── config 
+│    │   
+│    └── policy_config.json 
+├── detection    
+│     ├── behavioural_analysis.py 
+│     ├── policy_engine.py 
+│     ├── regex_detector.py 
+├── modules/    
+│     ├── file_monitor.py 
+│     ├── clipboard_monitor.py 
+│     ├── usb_monitor.py 
+│     ├── email_monitor.py 
+│     ├── leakage_detector.py 
+│     ├── leak_reporter.py 
+├── templates/ 
+│   ├── login.html 
+│   ├── table.html 
+│   ├── style.css   
+└── leak_report.csv 
