@@ -52,7 +52,7 @@ Telegram Bot for alert notifications
 
 # 📦Installation
 ## Clone the Repository
-git clone [https://github.com/MEGAVARSHINI2004/SecureVault.git]
+git clone [https://github.com/MEGAVARSHINI2004/DLP.git]
 cd SecureVault
 ## Create a Virtual Environment
 On Windows: venv\Scripts\activate
